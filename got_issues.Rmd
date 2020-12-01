@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 ```
 
-## Step 1: Exploring `storms` data
+## Step 1: Exploring `storms` data (#fixed (fixed)
 
 The `storms` data are built-in to the `dplyr` package..
 
